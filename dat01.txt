@@ -93,7 +93,8 @@
 
     # vim  /usr/local/nginx/conf/nginx.conf
     在文件最后，去注释 改域名
-
+                                                                                           
+                                                                                           write:curtain
 
     
     
